@@ -1,0 +1,28 @@
+spotify 
+- src
+
+  - Components
+
+    A] Home - Home.jsx
+
+      a] Navbar
+        - Navbar.jsx
+        - (...)
+
+      b] Sidebar
+        - Sidebar.jsx
+        - (...)
+
+      c] Bucket (Reuse Components)
+        - Bucket.jsx (for arrays)
+
+      d] Footer Section
+         - Footer.jsx
+
+      e] Play
+         - PlayBar.jsx
+
+    B] Authentication
+      - AuthComponent.jsx
+
+  - Redux
